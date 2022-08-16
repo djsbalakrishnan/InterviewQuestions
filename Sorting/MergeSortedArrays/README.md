@@ -1,4 +1,4 @@
-## Matrix Search
+## Merge Sorted Arrays
 Given two sorted integer arrays A and B, merge them as one sorted array and return it as an output.
 
 ### Constraints

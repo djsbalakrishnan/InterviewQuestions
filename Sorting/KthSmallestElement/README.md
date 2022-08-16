@@ -1,4 +1,4 @@
-## Matrix Search
+## Kth Smallest Element
 Find the Bth smallest element in given array A .
 NOTE: Users should try to solve it in less than equal to B swaps.
 
